@@ -1,0 +1,10 @@
+J = 1     Exchange Stiffness
+Z = 0.8     Zeeman Coupling Strength
+K = 0     Uniaxial Anisotropy Strength
+D = 1     DM Interaction Strength
+L = 100     System size
+array_size = 101     Array Size
+alpha = 0.04     Gilbert Damping Constant
+beta = 0.01     Non-adiabaticity for STT
+tf = 1     Integration time
+dt = 0.05     Integration time-step
