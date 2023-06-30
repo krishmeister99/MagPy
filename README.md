@@ -2,7 +2,7 @@
 A repo to polish up some code Harvey Marples (@hmarp) and I wrote 2 years ago to simulate magnetic Skyrmions using the Landau-Lifshitz-Gilbert equation.
 ## What's in here?
 Most of these files are for optimisation testing. However, the useful files are
-`skyrmpy_functions.py`, which is a set of functions Harvey Marples created to:
+`skyrmpy_functions.py`, which is a set of functions Harvey Marples and I created to:
 * Numerically solve the Landau-Lifshitz-Gilbert equation
 * Initialise and diagnose topologically non-trivial magnetisation textures, such as Skyrmions.
 * Compute magnetic susceptibilities.
