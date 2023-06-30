@@ -6,7 +6,7 @@ Most of these files are for optimisation testing. However, the useful files are
 * Numerically solve the Landau-Lifshitz-Gilbert equation
 * Initialise and diagnose topologically non-trivial magnetisation textures, such as Skyrmions.
 * Compute magnetic susceptibilities.
-and the fantastically named `simulation_attempt1.py`, which produces animations of the numerically obtained solutions.
+We also have the fantastically named `simulation_attempt1.py`, which produces animations of the numerically obtained solutions.
 ## What can you do with it?
 To get an idea of what you can do with these functions you can read our masters thesis
 `Master_s_Thesis.pdf`.
